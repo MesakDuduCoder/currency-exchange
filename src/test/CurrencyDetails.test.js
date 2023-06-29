@@ -15,14 +15,14 @@ const reducer = (
 ) => state;
 
 const store = configureStore({ reducer });
-describe('User Interactions test', () => {
-  it('will test user interaction', () => {
+describe("Render Test", () => {
+  it("Component renders correctly", () => {
     const tree = render(
       <MemoryRouter>
         <Provider store={store}>
           <CurrencyDetails />
         </Provider>
-      </MemoryRouter>,
+      </MemoryRouter>
     );
     expect(tree).toMatchSnapshot();
   });
