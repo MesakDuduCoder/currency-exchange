@@ -1,89 +1,96 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
-  
-  <br/>
 
-  <h3><b>SPACE TRAVELERS' HUB</b></h3>
+  <h3><b>Currency Exchange</b></h3>
 
 </div>
 
-
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[SPACE TRAVELERS' HUB\] ](#-space travelers' hub-)
-  - [🛠 Built With HTML,CSS \& Javascript](#-built-with-htmlcss--javascript)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo) 
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
+# 📖 [Currency_Exchage] <a name="about-project"></a>
 
-# 📖 [SPACE TRAVELERS' HUB] <a name="about-project"></a>
+**[Currency_Exchage]** is a website for converting the most popular currencies. It is a Single Page App (SPA) that allows users to:
 
-**[SPACE TRAVELERS' HUB]** - Space Travellers' Hub Is a web application built with react and redux and spaceXAPI. Users can view rockets and missions and create resrvations.
+See conversion rate of a wide range of currencies.
+Search for a currency from the given currencies.
 
-## 🛠 Built With <a name="built-with">HTML,CSS & Javascript</a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="">REACT.js</a></li>
-  </ul>
-  <ul>
-    <li><a href="">React Bootstrap</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
+<details>
+  <summary>Styles</summary>
+  <ul>
+    <li><a href="https://www.css3.com/">CSS</a></li>
+  </ul>
+</details>
 
+<details>
 
+<summary>Framework</summary>
+  <ul>
+    <li><a href="https://react.dev/">React JS</a></li>
+  </ul>
+</details>
+<details>
+
+<summary>Language</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/">Javascript</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-
-- **[the rockets and missions are displayed on UI when they enter the site]**
-- **[Interactive buttons for joining and reserving Rockets]**
-- **[User can view the joined mission names and Reserve rocket names in My profile page]**
-
-
-
+- **[single_page_app]**
+- **[see_conversion_rate]**
+- **[popular_currencies]**
+- **[search_currency]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
-
-- [Live Demo Link](coming soon .........)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-
 
 To get a local copy up and running, follow these steps.
 
@@ -91,74 +98,62 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- A browser of you choice.
-- A text editor of your choice.
-- An installed node.js on your local system
+  Git to clone this project or you can download the project ZIP file.
 
+  Any web browser to run this project.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone https://github.com/MesakDuduCoder/space-traveller-hub
-
+  ```sh
+  git clone https://github.com/MesakDuduCoder/currency-exchange.git
+  ```
 
 ### Install
 
 Install this project with:
 
-- you can download it as a zipped file.
-- you can clone it using OS terminal or code editor terminal.
-- you should use npm install
+  cd currency-exchange
+  then type command below on terminal
 
-
+  ```sh
+  npm install
+  ```
 ### Usage
 
-To run the project, execute the following command:
+To run the project:
 
-- npm start in terminal and choose the browser  
-
-### Deployment
-
-You can deploy this project using:
-
-You can deploy this project using:
-- Free deployment services like GitHub pages.
-- Any deployment services of your choice.
+type and run command on terminal on root of project folder: 
+```sh
+npm start
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-👤 **Munana Clinton**
-
-- GitHub: [@githubhandle](https://github.com/clin2on3mun)
-- Twitter: [@twitterhandle](https://twitter.com/ClintonMunana)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/munana-clinton/)
 
 👤 **MesakDuduCoder**
 
 - GitHub: [@githubhandle](https://github.com/MesakDuduCoder)
-- Linkedin: [@twitterhandle](https://twitter.com/mesak_10)
-- Twitter: [LinkedIn](https://www.linkedin.com/in/mesak-lalrindika/)
+- Twitter: [@twitterhandle](https://twitter.com/mesak_10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mesak-lalrindika/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
+ ## 🔭 Future Features <a name="future-features"></a>
 
-## 🔭 Future Features <a name="future-features"></a>
+- Add feature section for popular currencies
+- Add animations style
+- Add details page for currencies
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-
-
-- [ ] **[Mobile responsiveness]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -168,28 +163,24 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can recommend to your friend, family and colleagues who want to use my services
+If you like this project show support by liking this repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-**I would like to thank microverse for guiding and providing with all great material to do my projects and thank my coding partners who helped**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+I would like to thank Microverse for this project inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
