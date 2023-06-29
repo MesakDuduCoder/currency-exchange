@@ -14,6 +14,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🎥 Live Video](#live-video) 
     - [🚀 Live Demo](#live-demo) 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -80,11 +81,19 @@ Search for a currency from the given currencies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE Video -->
+
+## 🎥 Live Video <a name="live-video"></a>
+
+- [Live video Link](https://www.loom.com/share/315b8be17b59471f994b44f11093c141)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://currency-exchange-1gpu.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
