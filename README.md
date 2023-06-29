@@ -175,7 +175,7 @@ If you like this project show support by liking this repository.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this project inspiration.
+I would like to thank Nelson Sakwa (https://www.behance.net/sakwadesignstudio) for this project inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
